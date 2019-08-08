@@ -1,5 +1,7 @@
 # SparsityPattern
 
+[![Build status](https://api.travis-ci.org/TheBB/SparsityPattern.jl.svg?branch=master)](https://travis-ci.org/TheBB/SparsityPattern.jl)
+
 This is a small package for efficiently creating multiple sparse
 vectors or matrices which differ only in their values and not their
 sparsity patterns. Since most of the work involved in constructing
